@@ -1,15 +1,15 @@
 public class StringManipulator {
-
-    public static String Reverse(String str) {
-        StringBuilder sb = new StringBuilder(str);
-        return sb.reverse().toString();
+    public String Reverse(String s) {
+        return new StringBuilder(s).reverse().toString();
     }
 
-    public static String Truncate(String str, int length) {
-        if (str.length() <= length) {
-            return str;
-        } else {
-            return str.substring(0, length);
+    public String Truncate(String s, int length) {
+        if (s == null || length < 0) {
+            throw new IllegalArgumentException("Invalid input");
         }
+        if (s.length() <= length) {
+            return s;
+        }
+        return s.substring(0, length);
     }
 }
