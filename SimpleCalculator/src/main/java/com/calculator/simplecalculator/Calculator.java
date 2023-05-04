@@ -37,7 +37,7 @@ public class Calculator extends Application {
         gridPane.add(textField, 0, 0, 4, 1);
 
         Button buttonNumberZero = new Button("0");
-        buttonNumberZero.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberZero.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -45,7 +45,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberOne = new Button("1");
-        buttonNumberOne.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberOne.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -53,7 +53,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberTwo = new Button("2");
-        buttonNumberTwo.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberTwo.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -61,7 +61,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberThree = new Button("3");
-        buttonNumberThree.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberThree.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -69,7 +69,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberFour = new Button("4");
-        buttonNumberFour.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberFour.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -77,7 +77,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberFive = new Button("5");
-        buttonNumberFive.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberFive.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -85,7 +85,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberSix = new Button("6");
-        buttonNumberSix.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberSix.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -93,7 +93,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberSeven = new Button("7");
-        buttonNumberSeven.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberSeven.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -101,7 +101,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberEight = new Button("8");
-        buttonNumberEight.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberEight.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -109,7 +109,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonNumberNine = new Button("9");
-        buttonNumberNine.setStyle("-fx-background-color:#91078d;" +
+        buttonNumberNine.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -117,7 +117,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonOperationAddition = new Button("+");
-        buttonOperationAddition.setStyle("-fx-background-color:#91078d;" +
+        buttonOperationAddition.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -125,7 +125,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonOperationSubtraction = new Button("-");
-        buttonOperationSubtraction.setStyle("-fx-background-color:#91078d;" +
+        buttonOperationSubtraction.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff#ffffff#ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -133,7 +133,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonOperationDivision = new Button("/");
-        buttonOperationDivision.setStyle("-fx-background-color:#91078d;" +
+        buttonOperationDivision.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -141,7 +141,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonOperationMultiplication = new Button("*");
-        buttonOperationMultiplication.setStyle("-fx-background-color:#91078d;" +
+        buttonOperationMultiplication.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -149,7 +149,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonOperationEqual = new Button("=");
-        buttonOperationEqual.setStyle("-fx-background-color:#91078d;" +
+        buttonOperationEqual.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -157,7 +157,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonOperationClear = new Button("C");
-        buttonOperationClear.setStyle("-fx-background-color:#91078d;" +
+        buttonOperationClear.setStyle("-fx-background-color: #bd9015;" +
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -165,7 +165,7 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonOperationBackspace = new Button("⌫");
-        buttonOperationBackspace.setStyle("-fx-background-color:#91078d;"+
+        buttonOperationBackspace.setStyle("-fx-background-color: #bd9015;"+
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
@@ -173,58 +173,59 @@ public class Calculator extends Application {
                 "-fx-background-radius: 10; ");
 
         Button buttonOperationPoint = new Button(".");
-        buttonOperationPoint.setStyle("-fx-background-color:#9107"+
+        buttonOperationPoint.setStyle("-fx-background-color: #bd9015;"+
                 "-fx-text-fill: #ffffff; " +
                 "-fx-font-size: 18px; " +
                 "-fx-pref-width: 50px; " +
                 "-fx-pref-height: 50px; " +
                 "-fx-background-radius: 10; ");
-        // Row 2
+// Row 2
         gridPane.add(buttonOperationBackspace,1,1);
         gridPane.add(buttonOperationClear, 2, 1);
         gridPane.add(buttonOperationDivision, 3, 1);
 
-        // Row 3
+// Row 3
         gridPane.add(buttonNumberSeven, 0, 2);
         gridPane.add(buttonNumberEight, 1, 2);
         gridPane.add(buttonNumberNine, 2, 2);
         gridPane.add(buttonOperationMultiplication, 3, 2);
 
-        // Row 4
+// Row 4
         gridPane.add(buttonNumberFour, 0, 3);
         gridPane.add(buttonNumberFive, 1, 3);
         gridPane.add(buttonNumberSix, 2, 3);
         gridPane.add(buttonOperationSubtraction, 3, 3);
 
-        // Row 5
+// Row 5
         gridPane.add(buttonNumberOne, 0, 4);
         gridPane.add(buttonNumberTwo, 1, 4);
         gridPane.add(buttonNumberThree, 2, 4);
         gridPane.add(buttonOperationAddition, 3, 4);
 
-        // Row 6
+// Row 6
         gridPane.add(buttonNumberZero, 1, 5);
         gridPane.add(buttonOperationPoint,2,5);
         gridPane.add(buttonOperationEqual, 3, 5);
 
-        // Events
-        buttonNumberZero.setOnAction(event -> handleButtonPress("0"));
-        buttonNumberOne.setOnAction(event -> handleButtonPress("1"));
-        buttonNumberTwo.setOnAction(event -> handleButtonPress("2"));
-        buttonNumberThree.setOnAction(event -> handleButtonPress("3"));
-        buttonNumberFour.setOnAction(event -> handleButtonPress("4"));
-        buttonNumberFive.setOnAction(event -> handleButtonPress("5"));
-        buttonNumberSix.setOnAction(event -> handleButtonPress("6"));
-        buttonNumberSeven.setOnAction(event -> handleButtonPress("7"));
-        buttonNumberEight.setOnAction(event -> handleButtonPress("8"));
-        buttonNumberNine.setOnAction(event -> handleButtonPress("9"));
-        buttonOperationAddition.setOnAction(event -> handleButtonPress("+"));
-        buttonOperationSubtraction.setOnAction(event -> handleButtonPress("-"));
-        buttonOperationMultiplication.setOnAction(event -> handleButtonPress("*"));
-        buttonOperationDivision.setOnAction(event -> handleButtonPress("/"));
-        buttonOperationEqual.setOnAction(event -> handleButtonPress("="));
+// Events
+        buttonNumberZero.setOnAction(event -> handleButtonPressNumber("0"));
+        buttonNumberOne.setOnAction(event -> handleButtonPressNumber("1"));
+        buttonNumberTwo.setOnAction(event -> handleButtonPressNumber("2"));
+        buttonNumberThree.setOnAction(event -> handleButtonPressNumber("3"));
+        buttonNumberFour.setOnAction(event -> handleButtonPressNumber("4"));
+        buttonNumberFive.setOnAction(event -> handleButtonPressNumber("5"));
+        buttonNumberSix.setOnAction(event -> handleButtonPressNumber("6"));
+        buttonNumberSeven.setOnAction(event -> handleButtonPressNumber("7"));
+        buttonNumberEight.setOnAction(event -> handleButtonPressNumber("8"));
+        buttonNumberNine.setOnAction(event -> handleButtonPressNumber("9"));
+        buttonOperationAddition.setOnAction(event -> handleButtonPressOperationAddition());
+        buttonOperationSubtraction.setOnAction(event -> handleButtonPressOperationSubtraction());
+        buttonOperationMultiplication.setOnAction(event -> handleButtonPressOperationMultiplication());
+        buttonOperationDivision.setOnAction(event -> handleButtonPressOperationDivision());
+        buttonOperationEqual.setOnAction(event -> handleButtonPressEquals());
         buttonOperationClear.setOnAction(event -> handleButtonPressClear());
-        buttonOperationPoint.setOnAction(event -> handleButtonPress("."));
+        buttonOperationPoint.setOnAction(event -> handleButtonPressPoint());
+        buttonOperationBackspace.setOnAction(event-> handleButtonPressBackspace());
 
 
         Scene scene = new Scene(gridPane);
@@ -232,38 +233,100 @@ public class Calculator extends Application {
         stage.show();
     }
 
+    private void handleButtonPressBackspace() {
+        String screen = textField.getText();
+        char[] screenArray = screen.toCharArray();
+        String result = "";
+        for(int i =0; i < screenArray.length - 1; i++){
+            result += String.valueOf(screenArray[i]);
+        }
+
+        textField.setText(result);
+    }
+
+    private void handleButtonPressEquals() {
+        double result;
+        switch (operation){
+            case 1:{
+                valueTwo = Double.parseDouble(textField.getText());
+                result = valueOne + valueTwo;
+                textField.setText(String.valueOf(result));
+                break;
+            }
+            case 2: {
+                valueTwo = Double.parseDouble(textField.getText());
+                result = valueOne - valueTwo;
+                textField.setText(String.valueOf(result));
+
+                break;
+            }
+            case 3:{
+                valueTwo = Double.parseDouble(textField.getText());
+                result = valueOne * valueTwo;
+                textField.setText(String.valueOf(result));
+                break;
+            }
+            case 4:{
+                valueTwo = Double.parseDouble(textField.getText());
+                result = valueOne / valueTwo;
+                textField.setText(String.valueOf(result));
+                break;
+            }
+            default:{
+                break;
+            }
+        }
+    }
+
+    private void handleButtonPressPoint(){
+        String screen = textField.getText();
+
+        if(!screen.contains(".")){
+            textField.setText(textField.getText() + ".");
+        }
+    }
     private void handleButtonPressOperationAddition(){
-        valueOne = Double.parseDouble(textField.getText());
-        operation = 1;
-        textField.setText("0");
+        if(valueOne == 0){
+            valueOne = Double.parseDouble(textField.getText());
+            operation = 1;
+            textField.setText("0");
+        }
+
+
     }
 
     private void handleButtonPressOperationSubtraction(){
-        valueOne=Double.parseDouble(textField.getText());
-        operation = 2;
-        textField.setText("0");
+        if(valueOne == 0) {
+            valueOne = Double.parseDouble(textField.getText());
+            operation = 2;
+            textField.setText("0");
+        }
     }
 
-    private void handleButtonPressOperationMultiplication(){
-        valueOne = Double.parseDouble(textField.getText());
-        operation = 3;
-        textField.setText("0");
+    private void handleButtonPressOperationMultiplication() {
+        if (valueOne == 0) {
+            valueOne = Double.parseDouble(textField.getText());
+            operation = 3;
+            textField.setText("0");
+        }
     }
 
-    private void handleButtonPresOperationDivision(){
-        valueOne = Double.parseDouble(textField.getText());
-        operation = 3;
-        textField.setText("0");
-
-
-
-
+    private void handleButtonPressOperationDivision(){
+        if(valueOne == 0) {
+            valueOne = Double.parseDouble(textField.getText());
+            operation = 4;
+            textField.setText("0");
+        }
     }
     private void handleButtonPress(String buttonValue) {
         textField.setText(textField.getText() + buttonValue);
     }
-
-    private void handleButtonPressClear(){textField.setText("0");}
+    private void handleButtonPressClear(){
+        textField.setText("0");
+        valueOne = 0;
+        valueTwo = 0;
+        operation = 0;
+    }
 
     private void handleButtonPressNumber(String buttonValue){
         if(Objects.equals(textField.getText(),"0")&& !Objects.equals(buttonValue,"0")){
@@ -273,9 +336,6 @@ public class Calculator extends Application {
             textField.setText(textField.getText() + buttonValue);
         }
     }
-
-
-
     public static void main(String[] args) {
         launch();
     }
